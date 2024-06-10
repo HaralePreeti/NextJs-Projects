@@ -1,0 +1,42 @@
+.main {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-bottom: 2px solid rgb(120, 109, 109);
+  background: lightseagreen;
+  padding: 10px 10px;
+  box-shadow: 0px 0px 3px black;
+
+}
+
+.heading {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid rgb(120, 109, 109);
+  border-radius: 10px;
+  background: rgb(178, 221, 219);
+  padding: 5px 5px;
+  margin-top: 10px;
+
+}
+
+.boxs {
+  display: flex;
+  flex-direction: row;
+}
+
+.container {
+  border: 2px solid rgb(120, 109, 109);
+  margin: 10px;
+  padding: 10px;
+  width: 270px;
+  text-align: center;
+  justify-content: center;
+  background: rgb(216, 224, 224);
+  flex-direction: column;
+  display: flex;
+
+}
